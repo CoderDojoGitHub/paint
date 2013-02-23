@@ -1,3 +1,6 @@
+# Paint
+Build a painting application in Ruby with Shoes™
+
 Today we're going to build a program that lets us paint pictures on the
 screen. We're going to do this using Shoes, which uses the Ruby
 programming language.
